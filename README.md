@@ -1,2 +1,4 @@
+- Example for Splash screen when start reat-native app
 - Search by " add new " keyword to find code change
+- To custom Splash screen go to ../launch_screen.xml file to change code
 - Implement from https://medium.com/@appstud/add-a-splash-screen-to-a-react-native-app-810492e773f9
