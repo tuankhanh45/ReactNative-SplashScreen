@@ -1,0 +1,2 @@
+- Search by " add new " keyword to find code change
+- Implement from https://medium.com/@appstud/add-a-splash-screen-to-a-react-native-app-810492e773f9
