@@ -2,3 +2,4 @@
 - Search by " add new " keyword to find code change
 - To custom Splash screen go to ../launch_screen.xml file to change code
 - Implement from https://medium.com/@appstud/add-a-splash-screen-to-a-react-native-app-810492e773f9
+- Size Screen https://medium.com/chequer/android-ios-icon-splash-image-size-%EC%A0%95%EB%A6%AC-aa942e9771ff
